@@ -28,6 +28,7 @@
 		<div class="col-md-4" ><div class="card" >other interesting things I'm doing</div>
 			<ul>
 				<li>#</li>
+				<li>test</li>
 			</ul>
 		</div>
 	</div>
